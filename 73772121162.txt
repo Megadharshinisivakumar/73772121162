@@ -2,4 +2,4 @@ Name:Megadharshini S
 Department:BTech Information Technology
 Year:3rd
 Register Number:73772121162
-Area Of Interest: Full Stack Web Development
+Area Of Interest: Full Stack Development
